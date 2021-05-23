@@ -17,21 +17,19 @@
 ***************************************************************/
 
 package main;
+
 import model.Question;
 
 /**
- * @author Jeremy Brannen - jrbrannen
- *CIS175
- * Mar 29, 2021
+ * @author Jeremy Brannen - jrbrannen CIS175 Mar 29, 2021
  */
 public class Driver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			
+
 		Question.response();
-		
-	}	
-	
+
+	}
 
 }
